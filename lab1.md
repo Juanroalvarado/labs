@@ -1,5 +1,5 @@
-######Universidad Francisco Marroquin
-######Algoritmia y Complejidad
+#####Universidad Francisco Marroquin
+#####Algoritmia y Complejidad
 # Laboratorio 1
 
 
@@ -69,6 +69,7 @@ Demuestre cual el es *running time* de este algoritmo.
 ## Problema 3
 
 ![Bubblesort](http://4.bp.blogspot.com/-c96ypner9gE/UXDk-9X9VHI/AAAAAAAACVE/mj4tX46DZlA/s1600/ashis.PNG)
+
 Cual es el *worst-case running time* de este algoritmo?
 
 Como se compara a el *running time* de insertion sort?
