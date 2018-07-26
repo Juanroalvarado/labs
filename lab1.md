@@ -1,5 +1,5 @@
-#####Universidad Francisco Marroquin
-#####Algoritmia y Complejidad
+Universidad Francisco Marroquin
+Algoritmia y Complejidad
 # Laboratorio 1
 
 
